@@ -1,20 +1,20 @@
-Mega Project List
+Список мега-проектов
 ========
 
-A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
+Список практических проекток, которые можно реализовать на любом языке программирования ( смотри [решения](https://github.com/thekarangoel/Projects-Solutions)). Эти проекты разделены по нескольким категориям, и каждая категория имеет свою папку.
 
-To get started, simply fork this repo.
+Чтобы начать, просто сделайте форк этого репозитория.
 
 ## [CONTRIBUTING](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
 
 See ways of [contributing](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo. You can contribute **solutions** (will be published in this [repo](https://github.com/thekarangoel/Projects-Solutions)) to existing problems, **add new projects** or remove existing ones. Make sure you follow all instructions properly.
 
 
-## [Solutions](https://github.com/thekarangoel/Projects-Solutions)
+## [Решения](https://github.com/thekarangoel/Projects-Solutions)
 
 You can find implementations of these projects in many other languages by other users in [this repo](https://github.com/thekarangoel/Projects-Solutions).
 
-## Credits
+## Авторы
 
 This repo was compiled by [Karan Goel](http://twitter.com/karangoel).
 
@@ -23,23 +23,23 @@ Problems are motivated by the ones shared at:
 * [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 * [Rosetta Code](http://rosettacode.org/)
 
-## Table of Contents
+## Оглавление
 
-- [Numbers](https://github.com/karan/Projects#numbers)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
-- [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
-- [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Числа](https://github.com/karan/Projects#numbers)
+- [Классические алгоритмы](https://github.com/karan/Projects#classic-algorithms)
+- [Графы](https://github.com/karan/Projects#graph)
+- [Структуры данных](https://github.com/karan/Projects#data-structures)
+- [Текст](https://github.com/karan/Projects#text)
+- [Сеть](https://github.com/karan/Projects#networking)
+- [Классы](https://github.com/karan/Projects#classes)
+- [Потоки](https://github.com/karan/Projects#threading)
+- [Веб](https://github.com/karan/Projects#web)
+- [Файлы](https://github.com/karan/Projects#files)
+- [Базы данных](https://github.com/karan/Projects#databases)
+- [Графика и мультимедия](https://github.com/karan/Projects#graphics-and-multimedia)
+- [Безопасноть](https://github.com/karan/Projects#security)
 
-Numbers
+Числа
 ---------
 
 **Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
